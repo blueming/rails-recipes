@@ -1,0 +1,5 @@
+activerecord:
+      attributes:
+        event:
+          name: "活动名称"
+          description: "描述"
